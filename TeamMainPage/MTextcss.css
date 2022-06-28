@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-  content: "H ESTRELLA";
+  content: "A Team";
   animation: textanim 10s linear infinite;
 }
 
