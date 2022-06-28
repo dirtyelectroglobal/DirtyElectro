@@ -46,9 +46,9 @@ html{
 }
 
 .logo{
-  width: 157.6px;
-  height: 17.2px;
-  background-image: url(https://s2.loli.net/2022/06/28/PjgCS524MlKtxX3.png);
+  width: 166px;
+  height: 18px;
+  background-image: url(https://s2.loli.net/2022/06/28/tPMJgLjNibhdC97.png);
   background-size: contain;
 }
 
@@ -134,13 +134,13 @@ html{
 
 @keyframes textanim{
   25%{
-    content: "A Developer";
+    content: "Gamers";
   }
   50%{
-    content: "A Designer";
+    content: "Musicians";
   }
   75%{
-    content: "A Youtuber";
+    content: "Developers";
   }
 }
 
