@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-  content: "Darkcode";
+  content: "H ESTRELLA";
   animation: textanim 10s linear infinite;
 }
 
@@ -533,7 +533,7 @@ section.dark .section-title::after{
 }
 
 footer{
-  background: url(https://s2.loli.net/2022/06/28/keGxflauW8EyFI6.jpg) no-repeat center;
+  background: url(https://s2.loli.net/2022/06/28/csWvAjntKrmd5QB.png) no-repeat center;
   color: #fff;
   padding: 80px 0;
   text-align: center;
