@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-  content: "Darkcode";
+  content: "H ESTRELLA";
   animation: textanim 10s linear infinite;
 }
 
