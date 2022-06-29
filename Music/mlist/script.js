@@ -1,4 +1,4 @@
-console.log("Welcome to H Estrella Music");
+console.log("Welcome to HsuansMusic");
 
 // Initialize the Variables
 let songIndex = 0;
@@ -10,16 +10,16 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Like I Do-David Guetta.Martin Garrix.Brooks", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Blah Blah Blah-Armin Van Buuren", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Hold It Down-Brooks", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Better When You're Gone-David Guetta.Brooks.Loote", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Missing Out (feat. Lucas Ariel)-Dirty Palm.Lucas Ariel", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Drakkar-Distrion.Electro-Light", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Lullaby-R3HAB.Mike Williams", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Trouble (Mike Williams Remix)-R3HAB.VÉRITÉ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Alone-Rentz", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "The New Kings-Vicetone.Popeska.Luciana", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Like I Do", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Blah Blah Blah", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Hold It Down", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Better When You're Gone", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Missing Out", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Drakkar", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Lullaby", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Trouble(Mike Williams Remix)", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Alone", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
+    {songName: "The New Kings", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
